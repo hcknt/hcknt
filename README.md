@@ -7,8 +7,8 @@ hello :J
 
 ### what I want to make
 
-- an os from scratch
-- some awesome roguelike games that hurts player's mind
+- an OS from scratch
+- some awesome roguelike games that hurt players' minds
 - visual experiments (demos)
 
 ### what I love
