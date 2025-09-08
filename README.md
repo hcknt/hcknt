@@ -1,3 +1,3 @@
-Hi :-j
+Hello :-j
 
-My name is .hcknt, and I pronounce ".hcknt" as "hacknet".
+This is .hcknt, and I pronounce ".hcknt" as "hacknet".
